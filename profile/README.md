@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Nomu GitHub" width="100%" />
+  <img src="cover-1.png" alt="Nomu GitHub" width="100%" />
 </p>
 
 <h4 align="center">
